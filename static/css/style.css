@@ -1,0 +1,118 @@
+#color a
+{
+color: #444;
+  text-shadow:
+    1px 0px 1px #ccc, 0px 1px 1px #eee,
+    2px 1px 1px #ccc, 1px 2px 1px #eee,
+    3px 2px 1px #ccc, 2px 3px 1px #eee,
+    4px 3px 1px #ccc, 3px 4px 1px #eee,
+    5px 4px 1px #ccc, 4px 5px 1px #eee,
+    6px 5px 1px #ccc, 5px 6px 1px #eee,
+    7px 6px 1px #ccc;;
+	}
+
+
+ul ul ul li
+{
+
+display:none;
+}
+
+#hover1:hover ul li
+{
+
+display:block;
+}
+
+#line1
+{
+
+	display:block;
+}
+
+.funproject
+{
+ transition: box-shadow .3s;
+  width: 310px;
+  height: 390px;
+ 
+  border-radius:10px;
+  border: 1px solid #ccc;
+  background:white;
+  opacity:1;
+  float: left;
+}
+.funproject:hover
+{
+ -webkit-transform: rotate(8deg);
+  -moz-transform: rotate(8deg);
+  -o-transform: rotate(8deg);
+  -ms-transform: rotate(8deg);
+  transform: rotate(8deg);
+  right: 10px;
+  left: auto;
+}
+
+
+
+.progress-container
+{
+
+width:100%;
+background: grey;
+height:3px;
+
+}
+.progress-bar
+{
+
+height:3px;
+background:  #fff;
+}
+#mybar
+{
+	font-size:13px;
+	text-shadow: 0 0 3px #FF0000;
+}
+
+.papers a
+{
+
+color:black;
+
+}
+ ul li  ul
+{
+
+	display:none;
+	position:relative;
+}
+ #krishnayadav li a:hover
+{
+
+	text-shadow:0 0 3px #FF0000;
+}
+ul  li:hover ul 
+{
+
+	display:block;
+	
+}
+.max li a:hover
+{
+color:blue;
+}
+
+#copyright-krishna:hover{
+	color: red;
+
+}
+#copyright-krishna-yadav:hover{
+	color: red;
+
+}
+.container1
+{
+	height: 40%;
+	
+}
